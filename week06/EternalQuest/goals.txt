@@ -1,0 +1,4 @@
+1050
+SimpleGoal|Read 1 page BOM|Read 1 Page BOM|50|True
+EternalGoal|Read 2 pages of BOM|Read 2 pages BOM|100
+ChecklistGoal|Read 3 pages of BOM|Read 3 pages of BOM|200|3|100|3

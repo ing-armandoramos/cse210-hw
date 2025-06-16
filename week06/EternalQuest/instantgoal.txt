@@ -1,0 +1,3 @@
+0
+InstantGoal|Blink twice|Blink Twice|50|30
+InstantGoal|clap 3 times|clap 3 times|50|20

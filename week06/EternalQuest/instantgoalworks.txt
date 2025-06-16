@@ -1,0 +1,2 @@
+100
+InstantGoal|jump 2 times over a tile square|jump 2 times over a tile square|100|30
